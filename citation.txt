@@ -1,0 +1,10 @@
+@article{REPO059,
+    author = "Tang, Ming and Wong, Vincent WS",
+    journal = "IEEE Transactions on Mobile Computing",
+    number = "6",
+    pages = "1985--1997",
+    publisher = "IEEE",
+    title = "{Deep reinforcement learning for task offloading in mobile edge computing systems}",
+    volume = "21",
+    year = "2020"
+}
